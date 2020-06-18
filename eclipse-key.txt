@@ -1,0 +1,4 @@
+
+Ctrl + h : search  find name method
+
+Ctrl + shift +T : search find name class

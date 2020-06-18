@@ -1,0 +1,28 @@
+app-server
+c:\Adempiere
+
+
+sourcse
+c:\srvAdempiere
+
+workspace
+c:\dropbox
+u/n: developer@vdevsoft.com
+p/w: agoodday
+
+
+databas
+tkgarment
+datadev
+
+
+user adem.
+un: SuperUser
+pw: Systemtk
+
+
+postgres
+u:postgres
+p:SystemAdmin
+
+u,p:adempiere
