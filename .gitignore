@@ -1,5 +1,3 @@
-*.bat
-
 /billing
 /query
 
@@ -14,11 +12,12 @@
 
 
 
-/ws393w/.metadata/
-/ws393w/adempiereLibero/
-/ws393w/adempiereTrunk/
-/ws393w/BillingModule/
-/ws393w/customization/.settings/
-/ws393w/customization/bin/
 
-/ws393w/RemoteSystemsTempFiles/
+/ws393d/.metadata/
+/ws393d/adempiereLibero/
+/ws393d/adempiereTrunk/
+/ws393d/BillingModule/
+/ws393d/customization/.settings/
+/ws393d/customization/bin/
+
+/ws393d/RemoteSystemsTempFiles/
