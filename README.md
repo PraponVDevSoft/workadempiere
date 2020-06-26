@@ -4,3 +4,7 @@
 - Customization for any customer
 - SQL371
 - SQL39x
+
+ws371w  3.7.1, eclipse 
+ws393d  adempieretrunk develop
+ws393w  adempieretrunk master/final
