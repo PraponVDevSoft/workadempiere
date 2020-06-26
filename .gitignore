@@ -7,10 +7,7 @@
 /ws371w/BillingModule/
 /ws371w/customization/.settings/
 /ws371w/customization/bin/
-
 /ws371w/RemoteSystemsTempFiles/
-
-
 
 
 /ws393d/.metadata/
@@ -19,5 +16,14 @@
 /ws393d/BillingModule/
 /ws393d/customization/.settings/
 /ws393d/customization/bin/
-
 /ws393d/RemoteSystemsTempFiles/
+
+
+/ws393mw/.metadata/
+/ws393mw/adempiereEAM/
+/ws393mw/BillingModule/
+/ws393mw/EnterpriseAssetMaintenance/
+/ws393mw/customization/.settings/
+/ws393mw/customization/bin/
+/ws393mw/RemoteSystemsTempFiles/
+/ws393mw/Withholding/
