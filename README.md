@@ -7,4 +7,4 @@
 
 ws371w  3.7.1, eclipse 
 ws393d  adempieretrunk develop
-ws393w  adempieretrunk master/final
+ws393mw adempieretrunk version master/final
