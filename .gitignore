@@ -8,6 +8,7 @@
 /ws371w/customization/.settings/
 /ws371w/customization/bin/
 /ws371w/RemoteSystemsTempFiles/
+/ws371w/adempiere/adempiere/
 
 /ws392w/.metadata/
 /ws392w/adempiereLibero/
@@ -16,6 +17,7 @@
 /ws392w/customization/.settings/
 /ws392w/customization/bin/
 /ws392w/RemoteSystemsTempFiles/
+/ws392w/adempiere/adempiere/
 
 /ws393d/.metadata/
 /ws393d/adempiereLibero/
@@ -24,6 +26,7 @@
 /ws393d/customization/.settings/
 /ws393d/customization/bin/
 /ws393d/RemoteSystemsTempFiles/
+/ws393d/adempiere/adempiere/
 
 /ws393dw/.metadata/
 /ws393dw/adempiereLibero/
@@ -32,6 +35,7 @@
 /ws393dw/customization/.settings/
 /ws393dw/customization/bin/
 /ws393dw/RemoteSystemsTempFiles/
+/ws393dw/adempiere/adempiere/
 
 /ws393mw/.metadata/
 /ws393mw/adempiereEAM/
@@ -41,3 +45,4 @@
 /ws393mw/customization/bin/
 /ws393mw/RemoteSystemsTempFiles/
 /ws393mw/Withholding/
+/ws393mw/adempiere/adempiere/
