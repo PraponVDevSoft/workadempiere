@@ -1,0 +1,7 @@
+package com.tk.test;
+
+public class TestMLocation {
+	public static void main(String[] args) {
+		org.compiere.Adempiere.startup(true);
+	}
+}

@@ -1,0 +1,26 @@
+package com.tk.callout;
+
+import java.util.Properties;
+
+import org.compiere.model.CalloutEngine;
+import org.compiere.model.GridField;
+import org.compiere.model.GridTab;
+
+public class TKCallout extends CalloutEngine {
+	public String docStatusChanged (Properties ctx, int WindowNo, GridTab mTab, GridField mField, Object value)
+	{
+//		System.out.println("WindowNo " + WindowNo);
+//		System.out.println("mTab " + mTab);
+//		System.out.println("mField " + mField);
+//		System.out.println("value " + value);
+		
+		if(value.equals("DR")){
+			mTab.getField("Description").setValue("Draft", true);
+			
+		}else{
+			mTab.getField("Description").setValue("hello", true);
+		}
+		
+		return "";
+	}
+}
