@@ -31,7 +31,7 @@ public class X_QR_Symptom extends PO implements I_QR_Symptom, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_QR_Symptom (Properties ctx, int QR_Symptom_ID, String trxName)

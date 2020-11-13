@@ -30,7 +30,7 @@ public class X_PP_Order_Node_Inspect extends PO implements I_PP_Order_Node_Inspe
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_PP_Order_Node_Inspect (Properties ctx, int PP_Order_Node_Inspect_ID, String trxName)

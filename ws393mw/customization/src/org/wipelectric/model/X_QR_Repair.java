@@ -31,7 +31,7 @@ public class X_QR_Repair extends PO implements I_QR_Repair, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_QR_Repair (Properties ctx, int QR_Repair_ID, String trxName)

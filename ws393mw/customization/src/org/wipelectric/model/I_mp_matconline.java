@@ -21,15 +21,15 @@ import java.sql.Timestamp;
 import org.compiere.model.*;
 import org.compiere.util.KeyNamePair;
 
-/** Generated Interface for mp_matconline
+/** Generated Interface for MP_MatconLine
  *  @author Adempiere (generated) 
  *  @version Release 3.9.3
  */
-public interface I_mp_matconline 
+public interface I_MP_MatconLine 
 {
 
-    /** TableName=mp_matconline */
-    public static final String Table_Name = "mp_matconline";
+    /** TableName=MP_MatconLine */
+    public static final String Table_Name = "MP_MatconLine";
 
     /** AD_Table_ID=1000072 */
     public static final int Table_ID = MTable.getTable_ID(Table_Name);

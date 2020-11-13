@@ -33,7 +33,7 @@ public class X_QR_Return extends PO implements I_QR_Return, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_QR_Return (Properties ctx, int QR_Return_ID, String trxName)

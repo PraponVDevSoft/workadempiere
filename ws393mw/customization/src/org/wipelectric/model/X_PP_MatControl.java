@@ -31,7 +31,7 @@ public class X_PP_MatControl extends PO implements I_PP_MatControl, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_PP_MatControl (Properties ctx, int PP_MatControl_ID, String trxName)

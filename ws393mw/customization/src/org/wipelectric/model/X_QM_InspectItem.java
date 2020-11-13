@@ -30,7 +30,7 @@ public class X_QM_InspectItem extends PO implements I_QM_InspectItem, I_Persiste
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_QM_InspectItem (Properties ctx, int QM_InspectItem_ID, String trxName)

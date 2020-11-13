@@ -155,7 +155,9 @@ public class MCBilling extends X_C_Billing implements DocAction, DocOptions
 			while (rs.next())
 			{
 				int C_BillingLine_ID = rs.getInt(2);
+/*	prapon 2020/11/11			
 				int C_InvoicePaySchedule_ID = rs.getInt(6);
+*/				
 				int C_Invoice_ID = rs.getInt(3);
 				
 				BigDecimal InvoiceAmt = rs.getBigDecimal(4);
@@ -165,11 +167,11 @@ public class MCBilling extends X_C_Billing implements DocAction, DocOptions
 				BigDecimal WriteOffAmt = Env.ZERO;
 				BigDecimal OverUnderAmt = Env.ZERO;
 				BigDecimal Amount = Env.ZERO;
-				
+/*	prapon 2020/11/11			
 				BigDecimal TotalTax = Env.ZERO;
 				BigDecimal PercentOpen = Env.ZERO;
 				BigDecimal BaseWithholdingAmt = Env.ZERO;
-				
+*/
 				// == Fill Taxes (Same as LCO_CallOutWithholding.fillTaxes()) ==
 				int pricelist_id = DB.getSQLValue(null, 
 						"SELECT M_PriceList_ID FROM C_Invoice WHERE C_Invoice_ID=?", 

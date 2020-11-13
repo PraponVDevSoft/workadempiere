@@ -32,7 +32,7 @@ public class X_T_CountingStock extends PO implements I_T_CountingStock, I_Persis
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_T_CountingStock (Properties ctx, int T_CountingStock_ID, String trxName)

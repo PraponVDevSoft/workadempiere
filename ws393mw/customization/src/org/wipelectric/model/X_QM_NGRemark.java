@@ -31,7 +31,7 @@ public class X_QM_NGRemark extends PO implements I_QM_NGRemark, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_QM_NGRemark (Properties ctx, int QM_NGRemark_ID, String trxName)

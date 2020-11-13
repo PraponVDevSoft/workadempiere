@@ -31,7 +31,7 @@ public class X_PP_FIRSLine extends PO implements I_PP_FIRSLine, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_PP_FIRSLine (Properties ctx, int PP_FIRSLine_ID, String trxName)

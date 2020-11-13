@@ -31,7 +31,7 @@ public class X_PP_FIRS extends PO implements I_PP_FIRS, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_PP_FIRS (Properties ctx, int PP_FIRS_ID, String trxName)

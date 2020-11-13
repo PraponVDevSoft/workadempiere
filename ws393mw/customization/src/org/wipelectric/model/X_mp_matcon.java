@@ -21,29 +21,29 @@ import java.sql.ResultSet;
 import java.util.Properties;
 import org.compiere.model.*;
 
-/** Generated Model for mp_matcon
+/** Generated Model for MP_Matcon
  *  @author Adempiere (generated) 
  *  @version Release 3.9.3 - $Id$ */
-public class X_mp_matcon extends PO implements I_mp_matcon, I_Persistent 
+public class X_MP_Matcon extends PO implements I_MP_Matcon, I_Persistent 
 {
 
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
-    public X_mp_matcon (Properties ctx, int mp_matcon_ID, String trxName)
+    public X_MP_Matcon (Properties ctx, int MP_Matcon_ID, String trxName)
     {
-      super (ctx, mp_matcon_ID, trxName);
-      /** if (mp_matcon_ID == 0)
+      super (ctx, MP_Matcon_ID, trxName);
+      /** if (MP_Matcon_ID == 0)
         {
 			setmp_matcon_ID (0);
         } */
     }
 
     /** Load Constructor */
-    public X_mp_matcon (Properties ctx, ResultSet rs, String trxName)
+    public X_MP_Matcon (Properties ctx, ResultSet rs, String trxName)
     {
       super (ctx, rs, trxName);
     }
@@ -65,7 +65,7 @@ public class X_mp_matcon extends PO implements I_mp_matcon, I_Persistent
 
     public String toString()
     {
-      StringBuffer sb = new StringBuffer ("X_mp_matcon[")
+      StringBuffer sb = new StringBuffer ("X_MP_Matcon[")
         .append(get_ID()).append("]");
       return sb.toString();
     }

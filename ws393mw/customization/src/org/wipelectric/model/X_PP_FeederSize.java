@@ -30,7 +30,7 @@ public class X_PP_FeederSize extends PO implements I_PP_FeederSize, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_PP_FeederSize (Properties ctx, int PP_FeederSize_ID, String trxName)

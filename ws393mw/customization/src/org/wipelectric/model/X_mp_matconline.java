@@ -21,29 +21,29 @@ import java.sql.ResultSet;
 import java.util.Properties;
 import org.compiere.model.*;
 
-/** Generated Model for mp_matconline
+/** Generated Model for MP_MatconLine
  *  @author Adempiere (generated) 
  *  @version Release 3.9.3 - $Id$ */
-public class X_mp_matconline extends PO implements I_mp_matconline, I_Persistent 
+public class X_MP_MatconLine extends PO implements I_MP_MatconLine, I_Persistent 
 {
 
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
-    public X_mp_matconline (Properties ctx, int mp_matconline_ID, String trxName)
+    public X_MP_MatconLine (Properties ctx, int MP_MatconLine_ID, String trxName)
     {
-      super (ctx, mp_matconline_ID, trxName);
-      /** if (mp_matconline_ID == 0)
+      super (ctx, MP_MatconLine_ID, trxName);
+      /** if (MP_MatconLine_ID == 0)
         {
 			setmp_matconline_ID (0);
         } */
     }
 
     /** Load Constructor */
-    public X_mp_matconline (Properties ctx, ResultSet rs, String trxName)
+    public X_MP_MatconLine (Properties ctx, ResultSet rs, String trxName)
     {
       super (ctx, rs, trxName);
     }
@@ -65,7 +65,7 @@ public class X_mp_matconline extends PO implements I_mp_matconline, I_Persistent
 
     public String toString()
     {
-      StringBuffer sb = new StringBuffer ("X_mp_matconline[")
+      StringBuffer sb = new StringBuffer ("X_MP_MatconLine[")
         .append(get_ID()).append("]");
       return sb.toString();
     }

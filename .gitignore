@@ -4,34 +4,47 @@
 /ws371w/.metadata/
 /ws371w/adempiereLibero/
 /ws371w/adempiereTrunk/
-/ws371w/BillingModule/
+/ws371w/BillingModule/bin/
 /ws371w/customization/.settings/
 /ws371w/customization/bin/
 /ws371w/RemoteSystemsTempFiles/
 /ws371w/adempiere/adempiere/
 
+/ws390w/.metadata/
+/ws390w/adempiere/
+/ws390w/BillingModule/bin/
+/ws390w/customization/.settings/
+/ws390w/customization/bin/
+/ws390w/RemoteSystemsTempFiles/
+/ws390w/adempiere/adempiere/
+
+/ws391w/.metadata/
+/ws391w/adempiere/
+/ws391w/BillingModule/bin/
+/ws391w/customization/.settings/
+/ws391w/customization/bin/
+/ws391w/RemoteSystemsTempFiles/
+/ws391w/adempiere/adempiere/
+
 /ws392w/.metadata/
-/ws392w/adempiereLibero/
-/ws392w/adempiereTrunk/
-/ws392w/BillingModule/
+/ws392w/adempiere/
+/ws392w/BillingModule/bin/
 /ws392w/customization/.settings/
 /ws392w/customization/bin/
 /ws392w/RemoteSystemsTempFiles/
 /ws392w/adempiere/adempiere/
 
 /ws393d/.metadata/
-/ws393d/adempiereLibero/
-/ws393d/adempiereTrunk/
-/ws393d/BillingModule/
+/ws393d/adempiere/
+/ws393d/BillingModule/bin/
 /ws393d/customization/.settings/
 /ws393d/customization/bin/
 /ws393d/RemoteSystemsTempFiles/
 /ws393d/adempiere/adempiere/
 
 /ws393dw/.metadata/
-/ws393dw/adempiereLibero/
-/ws393dw/adempiereTrunk/
-/ws393dw/BillingModule/
+/ws393dw/adempiere/
+/ws393dw/BillingModule/bin/
 /ws393dw/customization/.settings/
 /ws393dw/customization/bin/
 /ws393dw/RemoteSystemsTempFiles/
@@ -39,7 +52,7 @@
 
 /ws393mw/.metadata/
 /ws393mw/adempiereEAM/
-/ws393mw/BillingModule/
+/ws393mw/BillingModule/bin/
 /ws393mw/EnterpriseAssetMaintenance/
 /ws393mw/customization/.settings/
 /ws393mw/customization/bin/

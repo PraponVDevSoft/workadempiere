@@ -32,7 +32,7 @@ public class X_PP_MatControl_Checking extends PO implements I_PP_MatControl_Chec
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_PP_MatControl_Checking (Properties ctx, int PP_MatControl_Checking_ID, String trxName)

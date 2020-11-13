@@ -31,7 +31,7 @@ public class X_QR_Cause extends PO implements I_QR_Cause, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_QR_Cause (Properties ctx, int QR_Cause_ID, String trxName)

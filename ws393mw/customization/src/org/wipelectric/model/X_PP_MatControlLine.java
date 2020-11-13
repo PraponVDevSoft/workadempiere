@@ -32,7 +32,7 @@ public class X_PP_MatControlLine extends PO implements I_PP_MatControlLine, I_Pe
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_PP_MatControlLine (Properties ctx, int PP_MatControlLine_ID, String trxName)

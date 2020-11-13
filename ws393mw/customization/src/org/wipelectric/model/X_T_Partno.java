@@ -30,7 +30,7 @@ public class X_T_Partno extends PO implements I_T_Partno, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_T_Partno (Properties ctx, int T_Partno_ID, String trxName)

@@ -31,7 +31,7 @@ public class X_RV_PP_Product_BOM_Repeat extends PO implements I_RV_PP_Product_BO
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_RV_PP_Product_BOM_Repeat (Properties ctx, int RV_PP_Product_BOM_Repeat_ID, String trxName)

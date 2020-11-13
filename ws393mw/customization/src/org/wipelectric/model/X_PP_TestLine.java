@@ -32,7 +32,7 @@ public class X_PP_TestLine extends PO implements I_PP_TestLine, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_PP_TestLine (Properties ctx, int PP_TestLine_ID, String trxName)

@@ -32,7 +32,7 @@ public class X_QM_Inspect1Line extends PO implements I_QM_Inspect1Line, I_Persis
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_QM_Inspect1Line (Properties ctx, int QM_Inspect1Line_ID, String trxName)

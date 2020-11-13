@@ -31,7 +31,7 @@ public class X_PP_Test extends PO implements I_PP_Test, I_Persistent
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_PP_Test (Properties ctx, int PP_Test_ID, String trxName)

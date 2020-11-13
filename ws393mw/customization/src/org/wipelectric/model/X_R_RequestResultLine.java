@@ -31,7 +31,7 @@ public class X_R_RequestResultLine extends PO implements I_R_RequestResultLine, 
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_R_RequestResultLine (Properties ctx, int R_RequestResultLine_ID, String trxName)

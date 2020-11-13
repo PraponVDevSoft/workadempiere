@@ -31,7 +31,7 @@ public class X_M_Product_Brand extends PO implements I_M_Product_Brand, I_Persis
 	/**
 	 *
 	 */
-	private static final long serialVersionUID = 25631105L;
+	private static final long serialVersionUID = 25631111L;
 
     /** Standard Constructor */
     public X_M_Product_Brand (Properties ctx, int M_Product_Brand_ID, String trxName)
