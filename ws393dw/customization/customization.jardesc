@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <jardesc>
-    <jar path="D:/work-393Dw-wht-eam/customization.jar"/>
+    <jar path="D:/GitHub/vdevsoft/workadempiere/ws393dw/customization.jar"/>
     <options buildIfNeeded="true" compress="true" descriptionLocation="/customization/customization.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
     <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
     <selectedProjects/>
@@ -13,8 +13,6 @@
     <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
         <file path="/customization/customizationDESC.jardesc"/>
         <file path="/customization/.classpath"/>
-        <javaElement handleIdentifier="=EnterpriseAssetMaintenance"/>
-        <javaElement handleIdentifier="=Withholding"/>
         <javaElement handleIdentifier="=customization/src"/>
         <file path="/customization/.project"/>
     </selectedElements>

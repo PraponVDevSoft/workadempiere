@@ -53,6 +53,7 @@ implements ClientProcess
 	 */
 	protected void prepare()
 	{
+		System.out.println(" print order customize *** WIP ***" );		
 		for (ProcessInfoParameter para : getParameter())
 		{
 			String name = para.getParameterName();

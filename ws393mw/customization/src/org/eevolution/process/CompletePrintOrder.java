@@ -97,6 +97,7 @@ implements ClientProcess
 			}
 			//
 			// Process document
+			order.setDocAction(MPPOrder.DOCACTION_Complete);
 			boolean ok = order.processIt(MPPOrder.DOCACTION_Complete);
 			order.saveEx();
 			if (!ok)
@@ -120,7 +121,7 @@ implements ClientProcess
 				return "";
 			}
 			ReportCtl.preview(re);
-//			re.print(); // prints only original		Prapon 03/10/2017
+			// re.print(); // prints only original		Prapon 3.7.1-03/10/2017, 3.9.3-03/02/2021
 		}
 		if (p_IsPrintPackList)
 		{
@@ -131,7 +132,7 @@ implements ClientProcess
 				return "";
 			}
 			ReportCtl.preview(re);
-//			re.print(); // prints only original		Prapon 03/10/2017
+			// re.print(); // prints only original		Prapon 3.7.1-03/10/2017, 3.9.3-03/02/2021
 		}
 		if (p_IsPrintWorkflow)
 		{
@@ -142,7 +143,7 @@ implements ClientProcess
 				return "";
 			}
 			ReportCtl.preview(re);
-//			re.print(); // prints only original		Prapon 03/10/2017
+			// re.print(); // prints only original		Prapon 3.7.1-03/10/2017, 3.9.3-03/02/2021
 		}
 
 		return "@OK@";
