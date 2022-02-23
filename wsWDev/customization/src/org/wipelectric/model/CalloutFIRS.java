@@ -4,21 +4,21 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Properties;
 
-import javax.swing.JOptionPane;
-import javax.swing.JTextField;
+// import javax.swing.JOptionPane;
+// import javax.swing.JTextField;
 
-import org.apache.commons.beanutils.converters.BigDecimalConverter;
+// import org.apache.commons.beanutils.converters.BigDecimalConverter;
 import org.compiere.model.CalloutEngine;
 import org.compiere.model.GridField;
 import org.compiere.model.GridTab;
 import org.compiere.model.I_M_InventoryLine;
-import org.compiere.model.MInventoryLine;
+// import org.compiere.model.MInventoryLine;
 import org.compiere.model.MStorage;
 import org.compiere.model.MTable;
 import org.compiere.model.Query;
-import org.compiere.model.X_C_UOM;
+// import org.compiere.model.X_C_UOM;
 import org.compiere.model.X_C_UOM_Conversion;
-import org.zkoss.zhtml.Big;
+// import org.zkoss.zhtml.Big;
 
 public class CalloutFIRS extends CalloutEngine {
 	public String internalInventoryUseChanged (	Properties ctx, int WindowNo, 
