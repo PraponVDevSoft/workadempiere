@@ -1,7 +1,7 @@
 # workadempiere
 - version 3.7.1
 - version 3.9.3
-- Customization for our customer
+- Customization for LTH customer
 - SQL371
 - SQL39x
 
